@@ -39,7 +39,6 @@ Examples included:
 - Command injection in a monitoring application
 - Windows token impersonation and privilege escalation
 
-:contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
 
 ## Remediation
 The project also focused on translating technical findings into actionable recommendations, including:
