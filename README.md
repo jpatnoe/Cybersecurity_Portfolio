@@ -3,8 +3,6 @@
 ## Joseph Patnoe
 Cyber Operations | GRC | Digital Forensics | Threat Intelligence
 
-# Cybersecurity Portfolio
-
 A collection of hands-on cybersecurity projects focused on digital forensics, threat intelligence, GRC, risk assessment, AI governance, and security automation.
 
 ## About Me
