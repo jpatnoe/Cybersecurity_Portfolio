@@ -4,7 +4,7 @@ Mock Security Assessment - Inlane Freight
 ## Overview
 This project is a mock external security assessment performed against the Inlane Freight environment. The goal was to evaluate the organization’s security posture, identify exploitable weaknesses, and document findings in a professional penetration testing report.
 
-The assessment followed guidance from NIST SP 800-115 and the OWASP Testing Guide. Testing included reconnaissance, scanning, exploitation, privilege escalation, and reporting. :contentReference[oaicite:1]{index=1}
+The assessment followed guidance from NIST SP 800-115 and the OWASP Testing Guide. Testing included reconnaissance, scanning, exploitation, privilege escalation, and reporting.
 
 ## Key Findings
 The assessment identified several high-impact weaknesses, including:
@@ -16,7 +16,6 @@ The assessment identified several high-impact weaknesses, including:
 - Excessive privileges and insufficient system hardening
 - Limited monitoring and preventative controls
 
-:contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
 
 ## Skills Demonstrated
 - Penetration Testing
